@@ -1,6 +1,6 @@
 # ddd-sample-vaughn-vernon
-Vaughn Vernon's "Implementing DDD" C# sample code - just a little bit modified
-
+[Vaughn Vernon](https://github.com/VaughnVernon)'s *"Implementing DDD"* C# sample code - just a little bit modified. <br />
+Original repo: https://github.com/VaughnVernon/IDDD_Samples_NET
 ```
 Gustin added this ReadMe.md.
 Gustin replaced .gitignore with current version on GitHub.
