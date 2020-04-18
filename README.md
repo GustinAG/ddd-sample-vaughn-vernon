@@ -4,6 +4,7 @@ Original repo: https://github.com/VaughnVernon/IDDD_Samples_NET
 ```
 Gustin added this ReadMe.md.
 Gustin replaced .gitignore with current version on GitHub.
+Gustin upgraded this to Visual Studio 2019 and .NET Framework 4.8.
 ```
 ## What You Need for This
  + Visual Studio 2019 - *or higher* - incl.:
