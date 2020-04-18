@@ -6,7 +6,7 @@ Gustin added this ReadMe.md.
 Gustin replaced .gitignore with current version on GitHub.
 ```
 # This sample solution is *NOT* a property of Gustin
-The whole solution is licenced under **Apache License, Version 2.0** - see also: [LICENSE.txt|LICENSE.txt].
+The whole solution is licenced under **Apache License, Version 2.0** - see also: [LICENSE.txt](LICENSE.txt).
 For a detailed decription of all license conditions, see: http://www.apache.org/licenses/LICENSE-2.0 .
 
 Plz be especially aware of the following section:
